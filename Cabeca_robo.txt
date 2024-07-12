@@ -1,0 +1,3 @@
+olhos para detectar objetos
+boca para comunicação
+ouvidos para escutar comandos
